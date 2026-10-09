@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <rect width="1200" height="300" fill="#0B0E14" rx="12"/>
+  <g font-family="Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+    <g>
+      <rect x="30" y="60" width="240" height="180" rx="10" fill="#141A24" stroke="#2A3342" stroke-width="1.5"/>
+      <text x="58" y="112" font-size="26" font-weight="800" fill="#E8B33D">01</text>
+      <text x="58" y="152" font-size="30" font-weight="700" fill="#F2F0EA">Design</text>
+      <text x="58" y="188" font-size="21" fill="#9AA3B2">Real principles.</text>
+      <text x="58" y="216" font-size="21" fill="#9AA3B2">No template slop.</text>
+    </g>
+    <g>
+      <rect x="325" y="60" width="240" height="180" rx="10" fill="#141A24" stroke="#2A3342" stroke-width="1.5"/>
+      <text x="353" y="112" font-size="26" font-weight="800" fill="#E8B33D">02</text>
+      <text x="353" y="152" font-size="30" font-weight="700" fill="#F2F0EA">Audit</text>
+      <text x="353" y="188" font-size="21" fill="#9AA3B2">Real scanners are</text>
+      <text x="353" y="216" font-size="21" fill="#9AA3B2">the ground truth.</text>
+    </g>
+    <g>
+      <rect x="620" y="60" width="240" height="180" rx="10" fill="#141A24" stroke="#2A3342" stroke-width="1.5"/>
+      <text x="648" y="112" font-size="26" font-weight="800" fill="#E8B33D">03</text>
+      <text x="648" y="152" font-size="30" font-weight="700" fill="#F2F0EA">Report</text>
+      <text x="648" y="188" font-size="21" fill="#9AA3B2">Evidence with</text>
+      <text x="648" y="216" font-size="21" fill="#9AA3B2">every finding.</text>
+    </g>
+    <g>
+      <rect x="915" y="60" width="240" height="180" rx="10" fill="#141A24" stroke="#2A3342" stroke-width="1.5"/>
+      <text x="943" y="112" font-size="26" font-weight="800" fill="#E8B33D">04</text>
+      <text x="943" y="152" font-size="30" font-weight="700" fill="#F2F0EA">Fix</text>
+      <text x="943" y="188" font-size="21" fill="#9AA3B2">Human-gated.</text>
+      <text x="943" y="216" font-size="21" fill="#9AA3B2">Nothing silent.</text>
+    </g>
+    <g stroke="#E8B33D" stroke-width="2.5" fill="none">
+      <line x1="278" y1="150" x2="317" y2="150"/><polyline points="308,141 320,150 308,159"/>
+      <line x1="573" y1="150" x2="612" y2="150"/><polyline points="603,141 615,150 603,159"/>
+      <line x1="868" y1="150" x2="907" y2="150"/><polyline points="898,141 910,150 898,159"/>
+    </g>
+  </g>
+</svg>

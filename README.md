@@ -1,6 +1,5 @@
 <p align="center">
-  <h1 align="center">Aegis</h1>
-  <p align="center">One installable skill that takes a website from idea to audited, fixed, and shippable.</p>
+  <img src="demo/aegis-banner.svg" alt="Aegis — Design. Audit. Report. Fix." width="100%">
   <p align="center">
     <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT license"></a>
     <img src="https://img.shields.io/badge/version-0.1.0-blue.svg" alt="version 0.1.0">
@@ -77,6 +76,10 @@ In Claude Code, with the skill installed:
 Or describe the site in your own words and mention Aegis. It works for new builds and for auditing a site you already have: point it at the folder.
 
 ### 4. Watch the four phases
+
+<p align="center">
+  <img src="demo/aegis-pipeline.svg" alt="The Aegis pipeline: Design, Audit, Report, Fix" width="100%">
+</p>
 
 **Design.** It builds the site against real principles: hierarchy, type scale, restrained color. Template tells are refused by default: gradient headlines, glowing cards, tech-chip walls, purple-blue dark mode soup. Motion only when it serves the content. You see the result before anything else happens.
 
